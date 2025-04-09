@@ -1,3 +1,3 @@
 # KalkulatorKredytowy
 
-2025-04-09 - Wersja testowa v.1.9
+2025-04-09 - Wersja testowa v.1.10
